@@ -1,5 +1,5 @@
 Código de Conduta
-Nosso Compromisso
+Nosso Compromisso      
 
 O OpenEduOps busca construir uma comunidade acolhedora, respeitosa e colaborativa.
 
