@@ -76,6 +76,8 @@ Neste momento, o OpenEduOps não tem como foco:
 
 Nosso foco está em resolver problemas operacionais.
 
+O OpenEduOps prioriza aplicações web progressivas, acessíveis e instaláveis, usando tecnologias amplamente adotadas pela indústria.
+
 ---
 
 ## Nossos Princípios
