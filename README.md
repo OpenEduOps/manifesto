@@ -1,0 +1,2 @@
+# manifesto
+Nossa visão.
